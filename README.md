@@ -14,7 +14,7 @@ This is a simple billing system implemented in Java. It is designed to help smal
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/Suhani-Lalla/Simple-Billing-System.git
+    git clone https://github.com/swayam71/Simple-Billing-System.git
    
 2. Navigate to the project directory:
    ```bash
