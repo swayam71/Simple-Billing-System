@@ -22,8 +22,8 @@ public class BillingSystemGUI extends JFrame {
     private List<Product> products;
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/billing_system";
-    private static final String DB_USER = "OOPJProject";
-    private static final String DB_PASSWORD = "Java";
+    private static final String DB_USER = "root";
+    private static final String DB_PASSWORD = "swayam";
 
     public BillingSystemGUI() {
         setTitle("Billing System");
